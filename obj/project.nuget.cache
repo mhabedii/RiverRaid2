@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cSNL6osAeIQOlEDrzyEyfpwgts7t4t5ye0ht8BYg8MAUkwjSJ1062Cftwddk2Wcn7By6g+7NLVV7ONFDYSnF9A==",
+  "success": true,
+  "projectFilePath": "D:\\me\\TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTt\\برنامه‌نویسی\\RiverRaid\\RiverRaid2\\RiverRaid.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohammad H\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Mohammad H\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Mohammad H\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Mohammad H\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

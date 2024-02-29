@@ -1,0 +1,7 @@
+D:\me\TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTt\برنامه‌نویسی\RiverRaid\RiverRaid2\obj\Debug\net7.0-windows\RiverRaid2.Form1.resources
+D:\me\TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTt\برنامه‌نویسی\RiverRaid\RiverRaid2\obj\Debug\net7.0-windows\RiverRaid.Properties.Resources.resources
+D:\me\TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTt\برنامه‌نویسی\RiverRaid\RiverRaid2\obj\Debug\net7.0-windows\RiverRaid.csproj.GenerateResource.cache
+D:\me\TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTt\برنامه‌نویسی\RiverRaid\RiverRaid2\obj\Debug\net7.0-windows\RiverRaid.GeneratedMSBuildEditorConfig.editorconfig
+D:\me\TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTt\برنامه‌نویسی\RiverRaid\RiverRaid2\obj\Debug\net7.0-windows\RiverRaid.AssemblyInfoInputs.cache
+D:\me\TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTt\برنامه‌نویسی\RiverRaid\RiverRaid2\obj\Debug\net7.0-windows\RiverRaid.AssemblyInfo.cs
+D:\me\TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTt\برنامه‌نویسی\RiverRaid\RiverRaid2\obj\Debug\net7.0-windows\RiverRaid.csproj.CoreCompileInputs.cache
